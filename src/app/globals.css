@@ -11,7 +11,7 @@
 body {
   background-color: var(--canvas-bg);
   color: var(--canvas-fg);
-  font-family: var(--font-geist-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   overflow-x: hidden;
   selection-background-color: #ff4a1c;
   selection-color: #ffffff;
